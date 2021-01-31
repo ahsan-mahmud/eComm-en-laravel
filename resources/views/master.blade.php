@@ -23,5 +23,35 @@
         height:500px;
         padding-top:100px;
     }
+    img.slider-img{
+        max-height: 400px;
+        max-width: 500px;
+        min-height: 400px;
+        min-width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    .custom-product{
+        height: 600px;
+    }
+    img.trending-image{
+        height: 100px;
+        width: 150px;
+    }
+    .trending-item{
+        float: left;
+        width: 25%;
+    }
+    .trending-wrapper{
+        margin-left: 125px;
+    }
+    .detail-img{
+        height: 250px;
+        width: 300px;
+    }
+    .search-box{
+        width: 500px !important
+    }
 </style>
 </html>
